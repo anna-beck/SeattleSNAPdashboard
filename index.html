@@ -367,7 +367,9 @@
       row.className = "barrow";
       row.innerHTML = `
         <div class="barlabel">${lab}</div>
-        <div class="barwrap"><div class="bar" style="width:${(counts[i]/max)*100}%"></div></div>
+        <div class="barwrap">
+          <div class="bar" style="width:${(counts[i]/max)*100}%; background:${COLORS[i]}"></div>
+        </div>
         <div class="barval">${counts[i]}</div>
       `;
       barsEl.appendChild(row);
