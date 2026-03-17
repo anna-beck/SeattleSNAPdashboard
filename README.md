@@ -4,7 +4,7 @@ https://anna-beck.github.io/SeattleSNAPdashboard/
 ### Team members
 
 - Evelyn Kate Antonyuk
-- Anya BeckAnya Beck
+- Anya Beck
 - Nuria Abas Ibrahim
 - Mimi Richert
 - Hieu Tran
