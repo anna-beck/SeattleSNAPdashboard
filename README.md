@@ -3,11 +3,11 @@ https://anna-beck.github.io/SeattleSNAPdashboard/
 
 ### Team members
 
-Evelyn Kate Antonyuk
-Anya BeckAnya Beck
-Nuria Abas Ibrahim
-Mimi Richert
-Hieu Tran
+- Evelyn Kate Antonyuk
+- Anya BeckAnya Beck
+- Nuria Abas Ibrahim
+- Mimi Richert
+- Hieu Tran
 
 ### Project description
 
@@ -38,9 +38,9 @@ TIGER/Line Shapefile, All Roads, King County - https://catalog.data.gov/dataset/
 
 ### Libraries Used: 
 
-Mapbox GL JS for interactive geospatial visualization
-Chart.js for dynamic chart
-Language: HTML, CSS, JS
-Web Service: github, mapbox
+- Mapbox GL JS for interactive geospatial visualization
+- Chart.js for dynamic chart
+- Language: HTML, CSS, JS
+- Web Service: github, mapbox
 
 #### AI Disclosure: No AI tools were used in this assignment.
